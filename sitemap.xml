@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://charliebailly.github.io/posts/helloworld-post/</loc>
+<lastmod>2022-11-10T20:51:55+01:00</lastmod>
+</url>
+<url>
+<loc>https://charliebailly.github.io/categories/</loc>
+<lastmod>2022-11-10T20:56:13+01:00</lastmod>
+</url>
+<url>
+<loc>https://charliebailly.github.io/tags/</loc>
+<lastmod>2022-11-10T20:56:13+01:00</lastmod>
+</url>
+<url>
+<loc>https://charliebailly.github.io/archives/</loc>
+<lastmod>2022-11-10T20:56:13+01:00</lastmod>
+</url>
+<url>
+<loc>https://charliebailly.github.io/about/</loc>
+<lastmod>2022-11-10T20:56:13+01:00</lastmod>
+</url>
+<url>
+<loc>https://charliebailly.github.io/</loc>
+</url>
+<url>
+<loc>https://charliebailly.github.io/tags/test/</loc>
+</url>
+<url>
+<loc>https://charliebailly.github.io/categories/test-cat/</loc>
+</url>
+<url>
+<loc>https://charliebailly.github.io/categories/test-cat2/</loc>
+</url>
+</urlset>
