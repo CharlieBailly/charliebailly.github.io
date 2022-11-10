@@ -13,6 +13,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
+    gemoji (3.0.1)
     html-proofer (3.19.4)
       addressable (~> 2.3)
       mercenary (~> 0.3)
@@ -52,6 +53,11 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-spaceship (0.10.2)
+      gemoji (~> 3.0)
+      jekyll (>= 3.6, < 5.0)
+      nokogiri (~> 1.6)
+      rainbow (~> 3.0)
     jekyll-theme-chirpy (5.2.1)
       jekyll (~> 4.1)
       jekyll-archives (~> 2.2)
@@ -106,6 +112,7 @@ PLATFORMS
 DEPENDENCIES
   html-proofer (~> 3.18)
   jekyll-compose
+  jekyll-spaceship
   jekyll-theme-chirpy (~> 5.2, >= 5.2.1)
   tzinfo (~> 1.2)
   tzinfo-data
