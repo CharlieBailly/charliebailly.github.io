@@ -24,6 +24,12 @@
             "problemMatcher": []
         },
         {
+            "label": "Upgrade chirpy",
+            "type": "shell",
+            "command": "git remote add template https://github.com/cotes2020/chirpy-starter ;git fetch --all; echo 'Now cherrypick needed commit from template'",
+            "problemMatcher": []
+        },
+        {
             "label": "Create a new post",
             "type": "shell",
             "command": "bundle exec jekyll post ${input:post_name}",
