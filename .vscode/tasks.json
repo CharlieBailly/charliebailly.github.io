@@ -22,6 +22,20 @@
                 "panel": "new"
             },
             "problemMatcher": []
-        }
+        },
+        {
+            "label": "Create a new post",
+            "type": "shell",
+            "command": "bundle exec jekyll post ${input:post_name}",
+            "problemMatcher": []
+        },
+    ],
+    "inputs": [
+        {
+            "id": "post_name",
+            "description": "Name of the new post",
+            "default": "My new post name",
+            "type": "promptString"
+        },
     ]
 }
