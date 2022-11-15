@@ -23,6 +23,3 @@ gem "webrick", "~> 1.7"
 
 # helps creating posts : https://github.com/jekyll/jekyll-compose
 gem 'jekyll-compose', group: [:jekyll_plugins]
-
-# https://github.com/jeffreytse/jekyll-spaceship#installation
-gem 'jekyll-spaceship', group: :jekyll_plugins

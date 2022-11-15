@@ -198,9 +198,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-# Where things are
-jekyll-spaceship:
-  mermaid-processor:
-    config:
-      theme: dark
